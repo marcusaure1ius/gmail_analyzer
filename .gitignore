@@ -1,0 +1,4 @@
+/venv/*
+/.idea/*
+/src/config/credentials.json
+/src/config/token.json
